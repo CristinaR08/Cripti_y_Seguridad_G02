@@ -1,0 +1,50 @@
+MQQ-SIG
+---------------------------10 palabras-----------------------------------
+Tiempo cifrado 1: 0.000370800 segundos
+Tiempo descifrado1: 0.000970500 segundos
+
+Tiempo cifrado 2: 0.000416200 segundos
+Tiempo descifrado 2:  0.000500400 segundos
+
+---------------------------100 palabras----------------------------------
+Tiempo cifrado 1: 0.002149700 segundos
+Tiempo descifrado1: 0.001446000 segundos
+
+Tiempo cifrado 2: 0.001970500 segundos
+Tiempo descifrado 2: 0.001950700 segundos
+
+---------------------------1000 palabras----------------------------------
+Tiempo cifrado 1: 0.021951600 segundos
+Tiempo descifrado1:  0.012146900 segundos
+
+Tiempo cifrado 2: 0.019121500 segundos
+Tiempo descifrado 2: 0.008939200 segundos
+
+---------------------------10000 palabras-----------------------------------
+Tiempo cifrado 1: 0.199480600 segundos
+Tiempo descifrado1: 0.100785500 segundos
+
+Tiempo cifrado 2: 0.204677500 segundos
+Tiempo descifrado 2: 0.108071300 segundos
+
+---------------------------100000 palabras----------------------------------
+Tiempo cifrado 1: 2.092516000 segundos
+Tiempo descifrado1:  0.924164700 segundos
+
+Tiempo cifrado 2: 2.168403800 segundos
+Tiempo descifrado 2: 0.914703000 segundos
+
+---------------------------1000000 palabras----------------------------------
+Tiempo cifrado 1: 29.588751000 segundos
+Tiempo descifrado1: 9.964978600 segundos
+
+Tiempo cifrado 2: 28.434988000 segundos
+Tiempo descifrado 2: 9.552535000 segundos
+
+---------------------------10000000 palabras----------------------------------
+Tiempo cifrado 1: 29.186557600 segundos
+Tiempo descifrado1: 9.869906900 segundos
+
+Tiempo cifrado 2: 28.975532400 segundos
+Tiempo descifrado 2: 9.807992600 segundos
+

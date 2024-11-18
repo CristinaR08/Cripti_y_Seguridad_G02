@@ -1,0 +1,50 @@
+SHA-512
+---------------------------10 palabras-----------------------------------
+Tiempo cifrado 1: 0.000803200 segundos
+Tiempo descifrado1: ------------------------
+
+Tiempo cifrado 2: 0.001266700 segundos
+Tiempo descifrado 2: -----------------------
+
+---------------------------100 palabras----------------------------------
+Tiempo cifrado 1: 0.000715300 segundos
+Tiempo descifrado1: ---------------------------
+
+Tiempo cifrado 2: 0.000749600 segundos
+Tiempo descifrado 2: ---------------------
+
+---------------------------1000 palabras----------------------------------
+Tiempo cifrado 1: 0.000879700 segundos
+Tiempo descifrado1: -----------------------
+
+Tiempo cifrado 2: 0.001132300 segundos
+Tiempo descifrado 2: ------------------------
+
+---------------------------10000 palabras-----------------------------------
+Tiempo cifrado 1: 0.001154600 segundos
+Tiempo descifrado1: ------------------------
+
+Tiempo cifrado 2: 0.000946400 segundos
+Tiempo descifrado 2: ------------------------
+
+---------------------------100000 palabras----------------------------------
+Tiempo cifrado 1: 0.009872900 segundos
+Tiempo descifrado1: ----------------------
+
+Tiempo cifrado 2: 0.002674200 segundos 
+Tiempo descifrado 2: ---------------------
+
+---------------------------1000000 palabras----------------------------------
+Tiempo cifrado 1: 0.017803400 segundos
+Tiempo descifrado1: ------------------------
+
+Tiempo cifrado 2: 0.021394000 segundos
+Tiempo descifrado 2: --------------------------
+
+---------------------------10000000 palabras----------------------------------
+Tiempo cifrado 1: 0.017164000 segundos
+Tiempo descifrado1: ------------------------
+
+Tiempo cifrado 2: 0.017739000 segundos
+Tiempo descifrado 2: ----------------------
+

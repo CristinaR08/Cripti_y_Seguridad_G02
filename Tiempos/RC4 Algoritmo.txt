@@ -1,0 +1,50 @@
+RC4 Algoritmo
+--------------------------10 palabras-----------------------------------
+Tiempo cifrado 1: 0.000250100 segundos
+Tiempo descifrado1: 0.000177899 segundos
+
+Tiempo cifrado 2: 0.000262899 segundos
+Tiempo descifrado 2: 0.000337599 segundos
+
+---------------------------100 palabras----------------------------------
+Tiempo cifrado 1: 0.000303800 segundos
+Tiempo descifrado1:  0.000338699 segundos
+
+Tiempo cifrado 2: 0.000865200 segundos
+Tiempo descifrado 2: 0.000865200 segundos
+
+---------------------------1000 palabras----------------------------------
+Tiempo cifrado 1: 0.005159400 segundos
+Tiempo descifrado1: 0.005883600 segundos
+
+Tiempo cifrado 2: 0.003774200 segundos
+Tiempo descifrado 2: 0.004432900 segundos
+
+---------------------------10000 palabras-----------------------------------
+Tiempo cifrado 1: 0.064518400 segundos
+Tiempo descifrado1: 0.087352400 segundos
+
+Tiempo cifrado 2: 0.074473300 segundos
+Tiempo descifrado 2: 0.037516500 segundos
+
+---------------------------100000 palabras----------------------------------
+Tiempo cifrado 1: 0.327127600 segundos
+Tiempo descifrado1: 0.271033700 segundos
+
+Tiempo cifrado 2: 0.254667800 segundos
+Tiempo descifrado 2: 0.312010800 segundos
+
+---------------------------1000000 palabras----------------------------------
+Tiempo cifrado 1: 2.866211000 segundos
+Tiempo descifrado1: 2.559517100 segundos
+
+Tiempo cifrado 2: 2.314224900 segundos
+Tiempo descifrado 2: 2.313881400 segundos
+
+---------------------------10000000 palabras----------------------------------
+Tiempo cifrado 1: 2.378859900 segundos
+Tiempo descifrado1: 2.822799100 segundos
+
+Tiempo cifrado 2: 3.236324300 segundos
+Tiempo descifrado 2: 3.339119400 segundos
+
